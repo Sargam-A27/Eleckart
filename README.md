@@ -43,7 +43,7 @@ _🔹 Exploratory Data Analysis (EDA)_
 
 🎉 Special event & seasonal impact analysis.
 
-_📊 Key Insights_
+**📊 Key Insights**
 
 Home Audio drives maximum COD revenue, while Camera Accessories dominate prepaid orders.
 
@@ -55,7 +55,7 @@ Sponsorships and online ads received the highest ad spend but require optimizati
 
 Luxury products maintain exclusivity by offering minimal discounts compared to mass-market items.
 
-_🤖 Modeling Approach_
+**🤖 Modeling Approach**
 
 Built Market Mix Models (MMM) for each sub-category.
 
@@ -63,7 +63,7 @@ Evaluated impact of ad spend, discounts, special events, and seasonality.
 
 Compared results across categories to optimize allocation.
 
-_✅ Recommendations_
+**✅ Recommendations**
 
 Maintain 10–20% discounting strategy for optimal profitability.
 
@@ -81,7 +81,7 @@ _📂 Repository Structure_
 ├── Marketing Mix Analysis Video.mp4 # Video presentation/explainer
 └── README.md                        # Project documentation
 
-_🛠️ Tools & Libraries_
+**_🛠️ Tools & Libraries_**
 
 Python (Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn)
 
